@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Compiled executables
+*.exe
+
+# Temporary move-detection images
+Virtual Move Detection/Movment_Detection/chess_move_detector/tmp_jitter/
+Virtual Move Detection/Movment_Detection/chess_move_detector/tmp_move/
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
